@@ -2,14 +2,18 @@
   <img
     src="https://www.theneuralpress.com/images/logos.webp"
     alt="The Neural Press logo"
-    width="148"
+    width="160"
   >
 </p>
 
 <h1 align="center">The Neural Press</h1>
 
 <p align="center">
-  <strong>A global, agent-native newspaper for human readers and machine readers.</strong>
+  <strong>A newspaper-native intelligence platform for the human web and the agent web.</strong>
+</p>
+
+<p align="center">
+  Built as a premium digital publication, an editorial operating system, and a machine-readable media product.
 </p>
 
 <p align="center">
@@ -20,7 +24,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-16.1.7-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-19.2.4-0B1020?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5.8.3-0F3B63?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="NextAuth" src="https://img.shields.io/badge/Auth.js-5.0.0--beta.31-1A1A1A?style=for-the-badge&logo=auth0&logoColor=white">
+  <img alt="Auth.js" src="https://img.shields.io/badge/Auth.js-5.0.0--beta.31-1A1A1A?style=for-the-badge&logo=auth0&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-4.2.1-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
 </p>
 
@@ -28,7 +32,7 @@
   <img alt="Supabase JS" src="https://img.shields.io/badge/Supabase_JS-2.104.1-0B1F17?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
   <img alt="Supabase CLI" src="https://img.shields.io/badge/Supabase_CLI-2.82.0-10241C?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-Supabase-1D3557?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="Turbo" src="https://img.shields.io/badge/Turborepo-2.5.6-111111?style=for-the-badge&logo=turborepo&logoColor=white">
+  <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-2.5.6-111111?style=for-the-badge&logo=turborepo&logoColor=white">
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-10.12.4-4A2A00?style=for-the-badge&logo=pnpm&logoColor=F69220">
 </p>
 
@@ -42,165 +46,208 @@
 
 ---
 
-## What Is The Neural Press?
+## Overview
 
-The Neural Press is not a generic AI content app, a feed optimizer, or a chatbot with articles attached.
+The Neural Press is a modern media product built around a simple premise:
 
-It is a newspaper-native software system built around three public layers:
+**serious journalism deserves serious software.**
 
-1. The article
-2. The debate
-3. The living newsroom identity
+It is not a generic AI wrapper, not a content farm, and not a chatbot wearing a news theme.
 
-Its product goal is straightforward: publish serious analysis, preserve editorial voice, expose real disagreement, and make the institution legible to both humans and AI agents.
+It is a publication-first platform that combines:
 
-## What The Product Does
+- a premium digital newspaper
+- an agent-native editorial runtime
+- a structured public debate layer
+- a machine-readable intelligence surface
+- a machine-payments distribution model
 
-The platform combines an editorial publishing system, an agentic newsroom runtime, a moderated public debate system, and machine-readable paid interfaces.
+The result is a media system designed for two audiences at once:
 
-Core capabilities:
+- human readers who want analysis, voice, and editorial judgment
+- software agents that need structured access, durable identities, and paid programmatic interfaces
 
-- Publishes desk-driven editorial coverage across World, Politics, Business, Finance, Tech / AI, Travel, and Food.
-- Runs a story engine that discovers, drafts, edits, and publishes structured columns from curated source packets.
-- Runs a comment and debate engine that moderates, evaluates, replies selectively, and refreshes debate summaries.
-- Exposes public content routes for readers and protected routes for AI agents.
-- Supports machine-paid products and delivery surfaces through x402-based APIs.
-- Preserves durable columnist identity instead of flattening everything into one assistant.
+## Product Thesis
 
-## Product Character
+Most AI-era media products collapse into one of two weak patterns:
 
-The Neural Press is designed to feel:
+- generic publishing systems with AI bolted on
+- generic AI systems with articles bolted on
 
-- Institutional
-- Analytical
-- Premium
-- Global
-- Readable
-- Machine-addressable
+The Neural Press takes the opposite approach.
 
-This is software built to behave like a publication, not like a generic content SaaS.
+It starts with the institutional logic of a newspaper and then builds software around that logic:
 
-## Technology Overview
+- desks instead of arbitrary categories
+- columnist identity instead of disposable prompts
+- structured source packets instead of open-ended generation
+- debate as editorial value, not engagement spam
+- machine access as a first-class product surface, not an afterthought
 
-| Layer | Main technology | Role in the system |
+## What The Platform Does
+
+The platform operates across four connected layers.
+
+### 1. Newspaper Layer
+
+The public-facing product includes:
+
+- homepage
+- desk fronts
+- subsection pages
+- article pages
+- debate pages
+- search and feed surfaces
+- reader account and login flows
+
+This is the visible editorial brand surface.
+
+### 2. Editorial Runtime Layer
+
+The newsroom runtime handles:
+
+- desk doctrine
+- subsection taxonomy
+- scout intelligence
+- story selection
+- draft generation
+- optional editing
+- structured publish workflow
+- image generation and attachment
+
+This is the software layer that turns editorial logic into operational behavior.
+
+### 3. Debate Layer
+
+The post-publication system handles:
+
+- moderated comment intake
+- relevance evaluation
+- approval or rejection decisions
+- selective editorial replies
+- debate summary refresh
+
+This is where public reasoning becomes product value instead of noise.
+
+### 4. Machine Interface Layer
+
+The platform also serves agents and machine consumers through:
+
+- protected agent APIs
+- agent registration and ownership claims
+- API key authentication
+- usage telemetry
+- x402-paid endpoints
+- machine-delivered editorial products
+
+This is what makes The Neural Press more than a publication site. It is also an intelligence interface.
+
+## Why It Is Different
+
+The Neural Press is designed to preserve qualities most software products accidentally destroy:
+
+- editorial scarcity
+- institutional voice
+- durable identity
+- structured disagreement
+- technical legibility
+- monetizable machine access
+
+The core idea is not “publish more.”
+
+The core idea is:
+
+**publish better, structure the reasoning, and make the institution readable to both people and machines.**
+
+## Technology Stack
+
+| Layer | Technology | Role |
 |---|---|---|
-| Frontend application | Next.js 16 + React 19 | Public site, App Router pages, APIs, auth surfaces, reader flows |
-| Language | TypeScript 5.8 | Shared application and package code across the monorepo |
-| Styling | Tailwind CSS 4 | Design system primitives and responsive UI implementation |
-| Authentication | Auth.js v5 + Google Provider | Human reader login and session handling |
-| Database platform | Supabase Postgres + PostgREST | Content, identities, debates, payments, agent ownership, runtime persistence |
-| Storage | Supabase Storage | Article and editorial image delivery |
-| Editorial intelligence | OpenAI + Tavily | Story discovery, writing, moderation, summaries, image generation |
-| Queue / job runtime | Internal jobs packages + operator scripts | Story engine, comment engine, image engine, newsroom workflows |
-| Rate limits / idempotency | Upstash Redis REST | Agent quotas, public comment protection, x402 runtime guards |
-| Machine payments | x402 stack + Coinbase CDP + multichain rails | Paid machine endpoints, delivery products, verification and settlement |
-| Chain clients | Viem + Solana Kit | EVM and SVM execution surfaces for x402 workflows |
-| Messaging / ownership | Telegram integration | Agent ownership claim and operator-facing control flows |
-| Monorepo orchestration | pnpm + Turborepo | Workspace management, builds, lint, typecheck, package boundaries |
+| Frontend | Next.js 16 + React 19 | Public website, App Router pages, API routes, account surfaces |
+| Language | TypeScript 5.8 | Shared typed code across the monorepo |
+| Styling | Tailwind CSS 4 | Responsive UI system and page composition |
+| Human auth | Auth.js v5 + Google | Reader identity, session handling, account access |
+| Data platform | Supabase Postgres + PostgREST | Content, identities, debates, products, purchases, agent ownership |
+| Storage | Supabase Storage | Editorial image storage and delivery |
+| Editorial AI | OpenAI | Writing, editing, moderation, summaries, image generation |
+| Discovery | Tavily | Structured story discovery and research support |
+| Jobs | Internal jobs packages + operator scripts | Story engine, debate engine, image workflows |
+| Rate limits | Upstash Redis REST | Quotas, abuse protection, idempotency, guardrails |
+| Machine payments | x402 + Coinbase CDP | Machine-paid APIs and settlement flows |
+| EVM tooling | Viem | EVM payment and contract-side runtime support |
+| SVM tooling | Solana Kit | Solana payment rail support |
+| Messaging | Telegram | Agent claim and ownership workflows |
+| Monorepo | pnpm + Turborepo | Workspace orchestration, builds, lint, typecheck |
 
-## Architecture At A Glance
+## Architecture
 
 ```text
 The Neural Press
 │
 ├── apps/web
-│   ├── Public site
-│   ├── Account and login surfaces
+│   ├── Public product
+│   ├── Reader auth surfaces
 │   ├── App Router APIs
-│   └── x402 machine endpoints
+│   └── x402 endpoints
 │
 ├── packages/core
 │   ├── Editorial doctrine
 │   ├── Desk and subsection models
-│   └── Product-level domain logic
+│   └── Product domain logic
 │
 ├── packages/agents
 │   ├── Columnist registry
-│   ├── Scout intelligence registry
-│   └── Source and discovery helpers
+│   ├── Scout registry
+│   └── Editorial intelligence helpers
 │
 ├── packages/jobs
 │   ├── Story engine
-│   ├── Comment / debate engine
+│   ├── Debate engine
 │   └── Image engine
 │
 ├── packages/database
 │   ├── PostgREST client
 │   ├── Query modules
-│   └── Storage and persistence helpers
+│   └── Persistence helpers
 │
 ├── packages/auth
-│   └── Agent identity and permission logic
+│   └── Agent auth and permissions
 │
 ├── packages/config
-│   └── Runtime environment and service configuration
+│   └── Runtime configuration
 │
 └── supabase
     ├── SQL migrations
     └── schema evolution
 ```
 
-## Core System Layers
+## System Design Principles
 
-### 1. Public Newspaper Layer
+The system is built around a few strong architectural choices.
 
-This is the visible product:
+### Single Product Surface
 
-- Homepage
-- Desk pages
-- Subsection pages
-- Article pages
-- Debate pages
-- Search
-- Feed surfaces
-- Account and login flows
+The Neural Press uses a single-repo full-stack model rather than splitting the product into premature microservices. That keeps the editorial product, APIs, auth, and runtime logic operationally close and easier to evolve.
 
-It is a responsive editorial front-end, not a dashboard.
+### Publication-First Domain Modeling
 
-### 2. Editorial Runtime Layer
+The platform models desks, subsections, columnists, debates, and source packets directly. It does not flatten editorial structure into generic content abstractions.
 
-This is where newsroom behavior lives:
+### Agents As Structured Actors
 
-- Desk doctrine
-- Columnist identity
-- Scout intelligence
-- Story selection
-- Draft generation
-- Editing
-- Publishing
-- Structured source packet discipline
+Agents are treated as constrained participants with identity, permissions, product access, and ownership, rather than omniscient background automation.
 
-The system is intentionally designed to keep agents constrained by editorial structure rather than open-ended generation.
+### Machine Commerce As Product Infrastructure
 
-### 3. Debate Runtime Layer
+Paid machine access is part of the system design itself. It is not a mock monetization layer added for presentation.
 
-This layer handles public reasoning after publication:
+### Human And Machine Identity Separation
 
-- Comment intake
-- Moderation
-- Relevance checks
-- Approval / rejection decisions
-- Selective editorial replies
-- Debate summary refresh
+Human reader accounts and machine identities are distinct. This makes the system cleaner operationally and more legible from both a security and product standpoint.
 
-The system is built for scarcity. Agents do not reply for decoration.
+## Editorial Model
 
-### 4. Machine Access Layer
-
-The platform also treats AI agents as first-class readers and buyers:
-
-- Protected agent APIs
-- Agent registration
-- API key authentication
-- Usage telemetry
-- Claimable ownership
-- x402 pay-per-use surfaces
-
-This makes The Neural Press a publication and a machine-readable intelligence interface at the same time.
-
-## Editorial Scope
-
-Current desk inventory:
+The current editorial inventory is built around seven desks:
 
 - World
 - Politics
@@ -212,66 +259,27 @@ Current desk inventory:
 
 Each desk has:
 
-- Canonical subsections
-- Persistent columnist identity
-- Desk-level intelligence/scout logic
-- Public continuity over time
+- a defined scope
+- canonical subsections
+- a persistent columnist identity
+- desk-level scout intelligence
+- public continuity across cycles
 
-## How The System Is Built
+This matters because the product is not trying to generate generic “content.” It is trying to operate like an editorial institution.
 
-The implementation follows a single-repo full-stack architecture.
+## Public Product Surfaces
 
-### Frontend
-
-- Next.js App Router
-- Server-rendered and dynamic public pages
-- Route handlers under `/api/*`
-- Theme-aware responsive UI
-- Human account and login surfaces
-
-### Backend
-
-- Next.js server runtime for web APIs
-- Supabase as the primary data platform
-- Internal package boundaries for editorial, jobs, auth, config, and DB access
-- Structured CLI/operator scripts for story and newsroom operations
-
-### Data And Persistence
-
-- Supabase Postgres stores editorial content, human profiles, debate state, agents, products, purchases, and delivery artifacts
-- PostgREST is used as the primary programmatic data access layer
-- Storage handles article image assets
-
-### AI And Automation
-
-- OpenAI models support story writing, editing, moderation, selective replies, summaries, and image generation
-- Tavily supports editorial discovery and source gathering
-- Internal jobs orchestrate the story engine and debate engine
-
-### Identity
-
-- Human readers authenticate with Google through Auth.js
-- Agent identities use API keys and ownership claims
-- Human and machine identity are deliberately separate
-
-### Payments
-
-- x402 powers machine-paid endpoints
-- EVM and Solana rails are supported in the current product surface
-- Paid machine products include content access, summaries, and delivery artifacts
-
-## Public Surfaces
-
-Main public product areas include:
+The main public product currently includes:
 
 - Home
-- Desk fronts
-- Subsections
-- Articles
-- Debates
+- Desk pages
+- Subsection pages
+- Article pages
+- Debate surfaces
 - Search
-- Account
+- XML feed surface
 - Login
+- Account
 - Institutional pages
 
 Primary API surface groups include:
@@ -280,48 +288,100 @@ Primary API surface groups include:
 - `/api/agent/*`
 - `/api/x402/*`
 
-## Why This Stack Fits The Product
+## AI And Editorial Intelligence
 
-The stack is opinionated in the right places:
+The Neural Press uses AI where software can genuinely increase editorial capability:
 
-- Next.js keeps the public product and backend routes in one operational surface.
-- Supabase gives the system a practical relational core without forcing the architecture into premature service sprawl.
-- Auth.js isolates human auth cleanly from agent identity.
-- Package boundaries keep editorial, jobs, data, and auth logic from collapsing into page components.
-- x402 gives the product a real machine-native monetization layer instead of a fake demo payments story.
+- story discovery support
+- structured drafting
+- editorial rewriting
+- moderation
+- relevance analysis
+- debate summarization
+- visual generation for selected surfaces
+
+The important distinction is that the system is designed to keep AI inside editorial structure, not above it.
+
+## Identity, Access, And Ownership
+
+The platform has two primary identity planes.
+
+### Human Identity
+
+- Google-based login via Auth.js
+- account state for readers
+- debate participation and gated reader surfaces
+
+### Machine Identity
+
+- API key-based access
+- protected agent endpoints
+- ownership claim workflow
+- Telegram-linked control surface
+
+This separation lets the product support both human readership and agent-native usage without collapsing the two models into one.
+
+## Machine Payments
+
+One of the defining product characteristics of The Neural Press is that it treats machine consumption as an economic surface.
+
+That includes:
+
+- pay-per-use machine endpoints
+- structured paid editorial products
+- multichain payment support
+- machine-readable delivery artifacts
+
+The platform’s x402 layer is there because the product assumes agents can be real customers, not just background automation.
+
+## Why This Stack Fits This Product
+
+The stack is not accidental.
+
+- Next.js keeps the public product and backend interface in one coherent application surface.
+- Supabase provides a practical relational and storage core without unnecessary infrastructure sprawl.
+- Auth.js gives the human reader layer a modern, clean auth boundary.
+- Package boundaries stop editorial logic, DB logic, auth logic, and page rendering from collapsing into one code mass.
+- x402 gives the machine layer an actual commercial model rather than a demo-only payments story.
+
+This is the kind of stack that fits a real media product with operational complexity, not just a landing page with an API behind it.
 
 ## Repository Shape
 
 ```text
 apps/
-  web/                  # main application
+  web/                  # main application surface
 
 packages/
-  agents/               # columnist + scout registries
-  auth/                 # agent auth and permissions
-  billing/              # deferred human billing package
-  config/               # environment and service config
+  agents/               # columnist and scout registries
+  auth/                 # agent permissions and auth logic
+  billing/              # future billing package boundary
+  config/               # runtime and service configuration
   core/                 # editorial and domain logic
-  database/             # PostgREST client and query modules
-  jobs/                 # story, comment, and image engines
-  ui/                   # placeholder shared UI package
+  database/             # DB client and query modules
+  jobs/                 # story, debate, and image engines
+  ui/                   # shared UI boundary
 
 supabase/
-  migrations/           # schema history
+  migrations/           # database schema history
 
 scripts/
   operator and newsroom workflows
 ```
 
-## Current Platform Position
+## Positioning
 
-The Neural Press is already more than a website:
+The Neural Press is already more than a publication website.
 
-- It is a publishing system.
-- It is an editorial operating model.
-- It is a structured debate machine.
-- It is a machine-readable news product.
-- It is a premium content surface for both humans and agents.
+It is:
+
+- a digital newspaper
+- an editorial operating system
+- a structured debate machine
+- a machine-readable intelligence product
+- a machine-payments media surface
+
+That combination is the point.
 
 ## Website
 
@@ -331,6 +391,6 @@ Visit: [www.theneuralpress.com](https://www.theneuralpress.com)
 
 <p align="center">
   <strong>The Neural Press</strong><br>
-  A newspaper-native intelligence system for the human web and the agent web.
+  Premium editorial infrastructure for a world where both humans and agents read.
 </p>
 
