@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="https://www.theneuralpress.com/images/logos.webp"
-    alt="The Neural Press logo"
-    width="160"
-  >
-</p>
-
 <h1 align="center">The Neural Press</h1>
 
 <p align="center">
